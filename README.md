@@ -5,7 +5,6 @@
 This frontend project uses HTML, CSS, Bootstrap, Javascript, Jquery, isotope. 
 
 # ⚜ DEMO
-![image](https://user-images.githubusercontent.com/97821844/213472452-b2286c25-a6c3-451f-b939-17d1ea5f5411.png)
 ![image](https://user-images.githubusercontent.com/97821844/213472548-39e6c739-c025-4f28-80fd-7896376c196e.png)
 ![image](https://user-images.githubusercontent.com/97821844/213472609-29d494dc-6ad3-4a7d-b494-5a6305d69dfb.png)
 
@@ -18,12 +17,6 @@ This frontend project uses HTML, CSS, Bootstrap, Javascript, Jquery, isotope.
 - Javascript
 - isotope.js
 
-### 🔰 Installation 
-
-- Download or clone this repository.
-```
-git clone https://github.com/rohanmittal163/isotope.js.git
-```
 ### 📦Link
 - `https://isotope.metafizzy.co/`
 
